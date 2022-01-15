@@ -1,3 +1,4 @@
+// It doesn't work yet
 class Queen {
   constructor(row, col){
     this.row = row;
